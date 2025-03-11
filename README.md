@@ -9,4 +9,5 @@ A simple Python app to merge and convert files into PDFs.
 ✅ Lightweight and fast  
 
 ## Installation  
-1. Just run the .exe! 
+1. Make sure you got ms office installed to do file converting
+2. Juast run the PDFmc.exe!
